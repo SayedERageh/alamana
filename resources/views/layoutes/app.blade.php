@@ -2,11 +2,14 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>@yield('title')</title>
-  <meta name="description" content="">
-  <meta name="keywords" content="">
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+<title>أكاديمية طارق الشيوي | تعليم وتدريب أونلاين</title>
+<meta name="google-site-verification" content="7TdLbu_LDXRHB2rr21XFvbyMEAAAJ8Uqq3S_cp_FBNE" />
+<meta name="description" content="أكاديمية طارق الشيوي منصة تعليمية متخصصة في تقديم الدورات والكورسات الأونلاين لتطوير المهارات التعليمية والتقنية باحترافية.">
+
+<meta name="keywords" content="أكاديمية طارق الشيوي, كورسات أونلاين, تعليم إلكتروني, تدريب, دورات تعليمية, منصة تعليمية">
 
   <!-- Favicons -->
   <link href="{{asset('assets/img/favicon.png')}}" rel="icon">
