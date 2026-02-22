@@ -489,12 +489,13 @@
 
 </section><!-- /Services Section -->
 <!-- Pricing Section -->
+<!-- Pricing Section -->
 <section id="pricing" class="pricing section light-background" dir="rtl">
 
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
-    <h2>خطط الاشتراك</h2>
-    <p>اختر الخطة المناسبة لأبنك واستمتع بتعليم متكامل أونلاين يجمع بين البرمجة، الذكاء الاصطناعي، اللغات، وتنمية القيم الدينية</p>
+    <h2>✨ عروض ومصروفات المدرسة</h2>
+    <p>احجز مكان ابنك الآن بسعر مميز لفترة محدودة – الأماكن محدودة والأولوية للحجز المبكر</p>
   </div><!-- End Section Title -->
 
   <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -504,23 +505,26 @@
       <!-- Basic Plan -->
       <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
         <div class="pricing-card border border-secondary p-4 text-center rounded shadow-sm">
-          <h3>الخطة الأساسية</h3>
+          <h3>KG & Primary</h3>
           <div class="price my-3">
-            <span class="amount">199</span>
+            <span class="amount">4000</span>
             <span class="currency">ج</span>
-            <span class="period">لـ 3 أشهر</span>
+            <span class="period">الترم كامل</span>
           </div>
-          <p class="description">مناسبة للمبتدئين، توفر أساسيات البرمجة واللغة الإنجليزية بطريقة ممتعة.</p>
+          <p class="description">
+            KG1 – KG2 <br>
+            Grade 1 – 2 – 3
+          </p>
 
-          <h4>تتضمن الخطة:</h4>
+          <h4>يشمل:</h4>
           <ul class="features-list text-start mx-4">
-            <li><i class="bi bi-check-circle-fill text-success"></i> دروس برمجة أساسية</li>
-            <li><i class="bi bi-check-circle-fill text-success"></i> أنشطة لغوية مبسطة</li>
-            <li><i class="bi bi-check-circle-fill text-success"></i> دعم أسبوعي مباشر</li>
+            <li><i class="bi bi-check-circle-fill text-success"></i> بدل 6000 جنيه</li>
+            <li><i class="bi bi-check-circle-fill text-success"></i> أول يوم تجربة مجاني</li>
+            <li><i class="bi bi-check-circle-fill text-success"></i> خصم 10% للأخوات</li>
           </ul>
 
-          <a href="tel:+201063069860" class="btn btn-primary mt-3">
-            اشترك الآن
+          <a href="https://wa.me/201011517437" target="_blank" class="btn btn-primary mt-3">
+            احجز الآن
             <i class="bi bi-arrow-right"></i>
           </a>
         </div>
@@ -529,25 +533,29 @@
       <!-- Standard Plan -->
       <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
         <div class="pricing-card popular border border-warning p-4 text-center rounded shadow-sm position-relative">
-          <div class="popular-badge bg-warning text-dark px-3 py-1 position-absolute top-0 start-50 translate-middle rounded">الأكثر شيوعًا</div>
-          <h3>الخطة القياسية</h3>
-          <div class="price my-3">
-            <span class="amount">349</span>
-            <span class="currency">ج</span>
-            <span class="period">لـ 6 أشهر</span>
+          <div class="popular-badge bg-warning text-dark px-3 py-1 position-absolute top-0 start-50 translate-middle rounded">
+            الأكثر طلبًا
           </div>
-          <p class="description">تعليم متقدم للأطفال، يشمل البرمجة، الذكاء الاصطناعي، وتطوير المهارات اللغوية والدينية.</p>
+          <h3>Upper Primary</h3>
+          <div class="price my-3">
+            <span class="amount">4200</span>
+            <span class="currency">ج</span>
+            <span class="period">الترم كامل</span>
+          </div>
+          <p class="description">
+            Grade 4 – 5 – 6
+          </p>
 
-          <h4>تتضمن الخطة:</h4>
+          <h4>يشمل:</h4>
           <ul class="features-list text-start mx-4">
-            <li><i class="bi bi-check-circle-fill text-success"></i> جميع مزايا الخطة الأساسية</li>
-            <li><i class="bi bi-check-circle-fill text-success"></i> دورات ذكاء اصطناعي للمبتدئين</li>
-            <li><i class="bi bi-check-circle-fill text-success"></i> تطوير المهارات اللغوية</li>
-            <li><i class="bi bi-check-circle-fill text-success"></i> متابعة دورية وتقارير تقدم</li>
+            <li><i class="bi bi-check-circle-fill text-success"></i> بدل 6400 جنيه</li>
+            <li><i class="bi bi-check-circle-fill text-success"></i> متابعة مستمرة للطلاب</li>
+            <li><i class="bi bi-check-circle-fill text-success"></i> أنشطة تعليمية أونلاين</li>
+            <li><i class="bi bi-check-circle-fill text-success"></i> خصم الأشقاء</li>
           </ul>
 
-          <a href="tel:+201063069860" class="btn btn-light mt-3">
-            اشترك الآن
+          <a href="https://wa.me/201011517437" target="_blank" class="btn btn-light mt-3">
+            احجز الآن
             <i class="bi bi-arrow-right"></i>
           </a>
         </div>
@@ -556,25 +564,26 @@
       <!-- Premium Plan -->
       <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
         <div class="pricing-card border border-danger p-4 text-center rounded shadow-sm">
-          <h3>الخطة المميزة</h3>
+          <h3>Preparatory</h3>
           <div class="price my-3">
-            <span class="amount">599</span>
+            <span class="amount">5200</span>
             <span class="currency">ج</span>
-            <span class="period">لـ 12 شهر</span>
+            <span class="period">الترم كامل</span>
           </div>
-          <p class="description">الخطة الشاملة لجميع المواد، ورش متقدمة، دعم شخصي، وتجربة تعليمية كاملة للأطفال والشباب.</p>
+          <p class="description">
+            إعدادي 1 – 2 – 3
+          </p>
 
-          <h4>تتضمن الخطة:</h4>
+          <h4>يشمل:</h4>
           <ul class="features-list text-start mx-4">
-            <li><i class="bi bi-check-circle-fill text-success"></i> جميع مزايا الخطة القياسية</li>
-            <li><i class="bi bi-check-circle-fill text-success"></i> ورش متقدمة للذكاء الاصطناعي والبرمجة</li>
-            <li><i class="bi bi-check-circle-fill text-success"></i> دعم شخصي أسبوعي</li>
-            <li><i class="bi bi-check-circle-fill text-success"></i> تقارير تفصيلية عن التقدم</li>
-            <li><i class="bi bi-check-circle-fill text-success"></i> شهادات معتمدة عند الانتهاء</li>
+            <li><i class="bi bi-check-circle-fill text-success"></i> بدل 7800 جنيه</li>
+            <li><i class="bi bi-check-circle-fill text-success"></i> شرح مبسط + مراجعات</li>
+            <li><i class="bi bi-check-circle-fill text-success"></i> دعم أكاديمي مستمر</li>
+            <li><i class="bi bi-check-circle-fill text-success"></i> تقارير متابعة</li>
           </ul>
 
-          <a href="tel:+201063069860" class="btn btn-danger mt-3">
-            اشترك الآن
+          <a href="https://wa.me/201011517437" target="_blank" class="btn btn-danger mt-3">
+            احجز الآن
             <i class="bi bi-arrow-right"></i>
           </a>
         </div>
@@ -584,7 +593,7 @@
 
   </div>
 
-</section><!-- /Pricing Section -->
+</section>
 <!-- Faq Section -->
 <section class="faq-9 faq section light-background" id="faq" dir="rtl">
 
