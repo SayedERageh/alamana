@@ -2,8 +2,8 @@
 
   <!-- Section Title -->
   <div class="container section-title text-center" data-aos="fade-up">
-    <h2>لماذا Tariq E Shewy Academy ؟</h2>
-    <p>نقدّم تعليمًا متكاملًا يجمع بين التكنولوجيا، اللغات، وتنمية المهارات بأسلوب حديث واحترافي</p>
+    <h2>لماذا شركة الأمانة سعود ؟</h2>
+    <p>نقدم خدمات احترافية في النظافة والعزل والترميم باستخدام أحدث المعدات وفريق عمل متخصص</p>
   </div>
   <!-- End Section Title -->
 
@@ -15,19 +15,19 @@
 
         <li class="nav-item">
           <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#features-tab-1">
-            <h4>البرمجة والذكاء الاصطناعي</h4>
+            <h4>خدمات النظافة</h4>
           </a>
         </li>
 
         <li class="nav-item">
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-2">
-            <h4>اللغات والمهارات الرقمية</h4>
+      <h4>خدمات الصيانة العامة</h4>
           </a>
         </li>
 
         <li class="nav-item">
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-3">
-            <h4>القرآن الكريم</h4>
+            <h4>التعقيم ومكافحة الحشرات</h4>
           </a>
         </li>
 
@@ -41,58 +41,58 @@
       <div class="tab-pane fade active show" id="features-tab-1">
         <div class="row align-items-center">
           <div class="col-lg-6 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-            <h3>تعليم البرمجة والذكاء الاصطناعي</h3>
+            <h3>خدمات النظافة المتكاملة</h3>
             <p class="fst-italic">
-              نُؤهّل الطلاب لسوق العمل من خلال مناهج عملية وحديثة.
+              نقدم خدمات تنظيف احترافية للمنازل والشركات بأحدث المعدات.
             </p>
             <ul>
-              <li><i class="bi bi-check2-all"></i> <span>تعليم البرمجة من الصفر حتى الاحتراف</span></li>
-              <li><i class="bi bi-check2-all"></i> <span>مبادئ وتطبيقات الذكاء الاصطناعي</span></li>
-              <li><i class="bi bi-check2-all"></i> <span>مشاريع عملية وشهادات معتمدة</span></li>
+              <li><i class="bi bi-check2-all"></i> <span>تنظيف المنازل والشقق والفلل</span></li>
+              <li><i class="bi bi-check2-all"></i> <span>تنظيف بعد التشطيب وإزالة مخلفات البناء</span></li>
+              <li><i class="bi bi-check2-all"></i> <span>تنظيف الواجهات الزجاجية والكلادنج</span></li>
             </ul>
           </div>
           <div class="col-lg-6 text-center">
-            <img src="{{ asset('assets/img/features-illustration-1.png') }}" alt="البرمجة والذكاء الاصطناعي" class="img-fluid">
+            <img src="{{ asset('assets/img/features-illustration-3.png') }}" alt="خدمات النظافة" class="img-fluid">
           </div>
         </div>
       </div>
 
       <!-- Tab 2 -->
-      <div class="tab-pane fade" id="features-tab-2">
-        <div class="row align-items-center">
-          <div class="col-lg-6 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-            <h3>English – ICT – UC MAS – ICDL</h3>
-            <p class="fst-italic">
-              تطوير شامل لمهارات اللغة والتكنولوجيا.
-            </p>
-            <ul>
-              <li><i class="bi bi-check2-all"></i> <span>كورسات English لجميع المستويات</span></li>
-              <li><i class="bi bi-check2-all"></i> <span>ICT و ICDL معتمدة</span></li>
-              <li><i class="bi bi-check2-all"></i> <span>UC MAS لتنمية القدرات العقلية</span></li>
-            </ul>
-          </div>
-          <div class="col-lg-6 text-center">
-            <img src="{{ asset('assets/img/features-illustration-2.png') }}" alt="الكورسات التعليمية" class="img-fluid">
-          </div>
-        </div>
-      </div>
+   <div class="tab-pane fade" id="features-tab-2">
+  <div class="row align-items-center">
+    <div class="col-lg-6 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
+      <h3>خدمات الصيانة العامة</h3>
+      <p class="fst-italic">
+        نقدم خدمات صيانة متكاملة للحفاظ على المنازل والمباني في أفضل حالة.
+      </p>
+      <ul>
+        <li><i class="bi bi-check2-all"></i> <span>صيانة السباكة والكهرباء</span></li>
+        <li><i class="bi bi-check2-all"></i> <span>إصلاح الأعطال المنزلية المختلفة</span></li>
+        <li><i class="bi bi-check2-all"></i> <span>صيانة دورية للمنازل والشركات</span></li>
+      </ul>
+    </div>
+    <div class="col-lg-6 text-center">
+      <img src="{{ asset('assets/img/features-illustration-2.png') }}" alt="خدمات الصيانة" class="img-fluid">
+    </div>
+  </div>
+</div>
 
       <!-- Tab 3 -->
       <div class="tab-pane fade" id="features-tab-3">
         <div class="row align-items-center">
           <div class="col-lg-6 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-            <h3>تعليم القرآن الكريم</h3>
+            <h3>التعقيم ومكافحة الحشرات</h3>
             <ul>
-              <li><i class="bi bi-check2-all"></i> <span>تحفيظ القرآن الكريم للأطفال والكبار</span></li>
-              <li><i class="bi bi-check2-all"></i> <span>أحكام التجويد بطريقة مبسطة</span></li>
-              <li><i class="bi bi-check2-all"></i> <span>متابعة مستمرة وتقييم دوري</span></li>
+              <li><i class="bi bi-check2-all"></i> <span>رش الحشرات والقضاء على القوارض</span></li>
+              <li><i class="bi bi-check2-all"></i> <span>تعقيم المنازل والمكاتب بأحدث الأجهزة</span></li>
+              <li><i class="bi bi-check2-all"></i> <span>تنظيف وتعقيم الكنب والسجاد بالبخار</span></li>
             </ul>
             <p class="fst-italic">
-              تعليم ديني قائم على أسس صحيحة وبأسلوب تربوي حديث.
+              حلول آمنة وفعالة للحفاظ على بيئة نظيفة وصحية.
             </p>
           </div>
           <div class="col-lg-6 text-center">
-            <img src="{{ asset('assets/img/features-illustration-3.png') }}" alt="القرآن الكريم" class="img-fluid">
+            <img src="{{ asset('assets/img/features-illustration-1.png') }}" alt="التعقيم ومكافحة الحشرات" class="img-fluid">
           </div>
         </div>
       </div>
@@ -116,7 +116,6 @@
   perspective: 1600px;
 }
 
-/* ================= Base Card ================= */
 .feature-box {
   position: relative;
   background: linear-gradient(145deg, #0f172a, #000000);
@@ -134,14 +133,12 @@
     0 0 40px rgba(0,170,255,0.1);
 }
 
-/* Floating حركة مستمرة */
 @keyframes floating {
   0% { transform: translateY(0px); }
   50% { transform: translateY(-12px); }
   100% { transform: translateY(0px); }
 }
 
-/* Icon */
 .feature-box i {
   font-size: 42px;
   margin-bottom: 15px;
@@ -156,8 +153,6 @@
   font-weight: bold;
 }
 
-/* ================= Hover Effects ================= */
-
 .feature-box:hover {
   animation: rotateX360 1.2s ease-in-out forwards, glowPulse 1.2s ease-in-out;
   box-shadow:
@@ -165,13 +160,11 @@
     0 0 100px rgba(0,170,255,0.5);
 }
 
-/* دوران 360 حول محور X */
 @keyframes rotateX360 {
   0% { transform: rotateX(0deg); }
   100% { transform: rotateX(360deg); }
 }
 
-/* نبض الإضاءة */
 @keyframes glowPulse {
   0% { box-shadow: 0 0 20px rgba(0,170,255,0.3); }
   50% { box-shadow: 0 0 80px rgba(0,170,255,1); }
@@ -183,7 +176,6 @@
   text-shadow: 0 0 40px #00e0ff;
 }
 
-/* ================= Light Sweep Effect ================= */
 .feature-box::before {
   content: "";
   position: absolute;
@@ -206,7 +198,6 @@
   left: 100%;
 }
 
-/* ================= Neon Border Ring ================= */
 .feature-box::after {
   content: "";
   position: absolute;
@@ -222,7 +213,6 @@
 .feature-box:hover::after {
   opacity: 1;
 }
-
 </style>
 
 <div class="container">
@@ -230,40 +220,40 @@
 
     <div class="col-xl-3 col-md-6">
       <div class="feature-box">
-        <i class="bi bi-code-slash"></i>
-        <h4>تعليم البرمجة</h4>
+        <i class="bi bi-house-door"></i>
+        <h4>تنظيف المنازل</h4>
         <p>
-          كورسات برمجة حديثة تناسب جميع الأعمار، من الأساسيات حتى الاحتراف مع تطبيق عملي مستمر.
+          تنظيف شامل للمنازل والشقق والفلل باستخدام معدات حديثة ومواد آمنة.
         </p>
       </div>
     </div>
 
     <div class="col-xl-3 col-md-6">
       <div class="feature-box">
-        <i class="bi bi-cpu"></i>
-        <h4>الذكاء الاصطناعي</h4>
+        <i class="bi bi-droplet-half"></i>
+        <h4>عزل الخزانات</h4>
         <p>
-          فهم وتطبيق مفاهيم الذكاء الاصطناعي بشكل مبسّط يؤهل الطلاب لمستقبل التكنولوجيا.
+          عزل وتنظيف خزانات المياه الأرضية والعلوية لضمان مياه نظيفة وآمنة.
         </p>
       </div>
     </div>
 
     <div class="col-xl-3 col-md-6">
       <div class="feature-box">
-        <i class="bi bi-mortarboard"></i>
-        <h4>مدرسة أونلاين متكاملة</h4>
+        <i class="bi bi-tools"></i>
+        <h4>الترميم والصيانة</h4>
         <p>
-          مدرسة تربوية أونلاين لأولادنا المغتربين بدول الخليج مع متابعة تعليمية مستمرة.
+          أعمال الترميم وإعادة تأهيل المنازل والمباني بأعلى جودة.
         </p>
       </div>
     </div>
 
     <div class="col-xl-3 col-md-6">
       <div class="feature-box">
-        <i class="bi bi-heart-pulse"></i>
-        <h4>قيم وتربية</h4>
+        <i class="bi bi-bug"></i>
+        <h4>مكافحة الحشرات</h4>
         <p>
-          نهتم ببناء شخصية الطالب دينيًا وأخلاقيًا بجانب التعليم الأكاديمي والتقني.
+          رش الحشرات والقضاء على القوارض بمواد آمنة وفعالة.
         </p>
       </div>
     </div>

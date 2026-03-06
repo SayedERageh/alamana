@@ -3,53 +3,42 @@
 
     <!-- Logo -->
     <a href="{{ route('home') }}" class="logo d-flex align-items-center ms-auto ms-xl-0">
-      <h1 class="sitename">شركة الأمانة</h1>
+      <h1 class="sitename">شركة الأمانة سعود</h1>
     </a>
 
     <!-- Navigation -->
     <nav id="navmenu" class="navmenu bg-dark">
       <ul>
+        <!-- الروابط الأساسية تظهر في كل الصفحات -->
+        <li>
+          <a class="{{ Route::is('home') ? 'active' : '' }}" href="{{ route('home') }}">الرئيسية</a>
+        </li>
 
-<li>
-<a class="{{ Route::is('home') ? 'active' : '' }}" href="{{ route('home') }}">
-الرئيسية
-</a>
-</li>
+        <li>
+          <a class="{{ Route::is('about') ? 'active' : '' }}" href="{{ route('about') }}">من نحن</a>
+        </li>
 
-<li>
-<a class="{{ Route::is('about') ? 'active' : '' }}" href="{{ route('about') }}">
-من نحن
-</a>
-</li>
+        <!-- الروابط الإضافية تظهر بس في الصفحة الرئيسية -->
+        @if(Route::is('home'))
+          <li><a href="#services">خدماتنا</a></li>
 
-<li><a href="#services">خدماتنا</a></li>
+          <li class="dropdown">
+            <a href="#">
+              <span>الخدمات</span>
+              <i class="bi bi-chevron-down toggle-dropdown"></i>
+            </a>
+            <ul>
+              <li><a href="#cleaning">خدمات النظافة</a></li>
+              <li><a href="#insulation">عزل الخزانات والأسطح</a></li>
+              <li><a href="#renovation">الترميم والمقاولات</a></li>
+              <li><a href="#sofa">تنظيف الكنب والسجاد</a></li>
+              <li><a href="#pest">مكافحة الحشرات والقوارض</a></li>
+            </ul>
+          </li>
 
-<li class="dropdown">
-<a href="#">
-<span>الخدمات</span>
-<i class="bi bi-chevron-down toggle-dropdown"></i>
-</a>
-
-<ul>
-
-<li><a href="#cleaning">خدمات النظافة</a></li>
-
-<li><a href="#insulation">عزل الخزانات والأسطح</a></li>
-
-<li><a href="#renovation">الترميم والمقاولات</a></li>
-
-<li><a href="#sofa">تنظيف الكنب والسجاد</a></li>
-
-<li><a href="#pest">مكافحة الحشرات والقوارض</a></li>
-
-</ul>
-
-</li>
-
-<li><a href="#projects">أعمالنا</a></li>
-
-<li><a href="#contact">تواصل معنا</a></li>
-
+          <li><a href="#projects">أعمالنا</a></li>
+          <li><a href="#contact">تواصل معنا</a></li>
+        @endif
       </ul>
 
       <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>

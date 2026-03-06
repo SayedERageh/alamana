@@ -12,9 +12,8 @@
 @include('home.features')
 
 
-
-<!-- Features 2 Section - تعليم أونلاين لأولادنا في الخارج -->
-<section id="features-2" class="features-2 section" dir="rtl" >
+<!-- Features Section - شركة الأمانة سعود -->
+<section id="features-2" class="features-2 section" dir="rtl">
 
   <div class="container" data-aos="fade-up" data-aos-delay="100">
 
@@ -26,13 +25,13 @@
         <div class="feature-item text-end mb-5" data-aos="fade-right" data-aos-delay="200">
           <div class="d-flex align-items-center justify-content-end gap-4">
             <div class="feature-content">
-              <h3>تعليم أونلاين آمن</h3>
+              <h3>شركة الأمانة سعود لعزل الخزانات</h3>
               <p>
-                نوفر بيئة تعليمية أونلاين آمنة ومناسبة لأبنائنا المغتربين في دول الخليج.
+                تقدم شركة الأمانة سعود خدمات عزل الخزانات بأحدث المواد والتقنيات لضمان حماية المياه من التسرب والتلوث.
               </p>
             </div>
             <div class="feature-icon flex-shrink-0">
-              <i class="bi bi-shield-lock"></i>
+              <i class="bi bi-droplet-half"></i>
             </div>
           </div>
         </div>
@@ -40,13 +39,13 @@
         <div class="feature-item text-end mb-5" data-aos="fade-right" data-aos-delay="300">
           <div class="d-flex align-items-center justify-content-end gap-4">
             <div class="feature-content">
-              <h3>متابعة مستمرة</h3>
+              <h3>شركة الأمانة سعود لعزل الأسطح</h3>
               <p>
-                تواصل دائم مع أولياء الأمور وتقارير دورية عن تقدم الطلاب.
+                توفر شركة الأمانة سعود خدمات عزل الأسطح لحماية المباني من الحرارة وتسرب المياه باستخدام أفضل مواد العزل.
               </p>
             </div>
             <div class="feature-icon flex-shrink-0">
-              <i class="bi bi-bar-chart"></i>
+              <i class="bi bi-house-lock"></i>
             </div>
           </div>
         </div>
@@ -54,13 +53,13 @@
         <div class="feature-item text-end" data-aos="fade-right" data-aos-delay="400">
           <div class="d-flex align-items-center justify-content-end gap-4">
             <div class="feature-content">
-              <h3>مدرسون متخصصون</h3>
+              <h3>شركة الأمانة سعود لأعمال الترميم</h3>
               <p>
-                فريق من المعلمين المتخصصين في المناهج الأونلاين والتعليم التفاعلي.
+                تقدم شركة الأمانة سعود خدمات ترميم المنازل والمباني باحترافية عالية لإعادة المبنى إلى أفضل حالة.
               </p>
             </div>
             <div class="feature-icon flex-shrink-0">
-              <i class="bi bi-person-badge"></i>
+              <i class="bi bi-tools"></i>
             </div>
           </div>
         </div>
@@ -70,7 +69,7 @@
       <!-- الصورة في المنتصف -->
       <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
         <div class="phone-mockup text-center">
-          <img src="assets/img/phone-app-screen.png" alt="تعليم أونلاين" class="img-fluid">
+          <img src="assets/img/phone-app-screen.png" alt="شركة الأمانة سعود للعزل والترميم والنظافة" class="img-fluid">
         </div>
       </div>
 
@@ -80,12 +79,12 @@
         <div class="feature-item mb-5" data-aos="fade-left" data-aos-delay="200">
           <div class="d-flex align-items-center gap-4">
             <div class="feature-icon flex-shrink-0">
-              <i class="bi bi-laptop"></i>
+              <i class="bi bi-bucket"></i>
             </div>
             <div class="feature-content">
-              <h3>كورسات متنوعة</h3>
+              <h3>شركة الأمانة سعود لخدمات النظافة</h3>
               <p>
-                برامج تعليمية في البرمجة، اللغات، والمهارات الرقمية للأطفال والشباب.
+                تقدم شركة الأمانة سعود خدمات تنظيف المنازل والفلل والشركات باستخدام أحدث معدات النظافة.
               </p>
             </div>
           </div>
@@ -94,12 +93,12 @@
         <div class="feature-item mb-5" data-aos="fade-left" data-aos-delay="300">
           <div class="d-flex align-items-center gap-4">
             <div class="feature-icon flex-shrink-0">
-              <i class="bi bi-award"></i>
+              <i class="bi bi-stars"></i>
             </div>
             <div class="feature-content">
-              <h3>شهادات معتمدة</h3>
+              <h3>تنظيف الكنب والسجاد</h3>
               <p>
-                شهادات معتمدة تساعد الطلاب في المستقبل الأكاديمي والمهني.
+                توفر شركة الأمانة سعود خدمة تنظيف الكنب والسجاد بالبخار لإزالة الأوساخ والبقع بفعالية.
               </p>
             </div>
           </div>
@@ -108,12 +107,12 @@
         <div class="feature-item" data-aos="fade-left" data-aos-delay="400">
           <div class="d-flex align-items-center gap-4">
             <div class="feature-icon flex-shrink-0">
-              <i class="bi bi-people"></i>
+              <i class="bi bi-bug"></i>
             </div>
             <div class="feature-content">
-              <h3>دعم لأولياء الأمور</h3>
+              <h3>مكافحة الحشرات</h3>
               <p>
-                دعم كامل للأهالي من استفسارات ومتابعة طوال العام الدراسي.
+                تقدم شركة الأمانة سعود خدمات مكافحة الحشرات باستخدام مواد آمنة وفعالة للقضاء على جميع أنواع الحشرات.
               </p>
             </div>
           </div>
@@ -126,7 +125,7 @@
   </div>
 
 </section>
-<!-- /Features 2 Section -->
+<!-- /Features Section -->
 
 <!-- Call To Action Section -->
 <section id="call-to-action" class="call-to-action section" dir="rtl">
@@ -136,14 +135,15 @@
     <div class="row content justify-content-center align-items-center position-relative">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="display-4 mb-4">
-          استثمر في تعليم ابنك مع أكاديمية طارق الشيوي
+          شركة الأمانة سعود للعزل والترميم والنظافة
         </h2>
         <p class="mb-4">
-          تعليم أونلاين متكامل لأبنائنا المغتربين بدول الخليج، يجمع بين البرمجة،
-          الذكاء الاصطناعي، اللغات، وبناء الشخصية في بيئة آمنة وتفاعلية.
+          تقدم شركة الأمانة سعود خدمات متكاملة تشمل عزل الخزانات، عزل الأسطح،
+          أعمال الترميم، تنظيف الكنب والسجاد، ومكافحة الحشرات باستخدام أحدث
+          المعدات لضمان أفضل جودة وخدمة لعملائنا.
         </p>
         <a href="#contact" class="btn btn-cta">
-          تواصل معنا الآن
+          تواصل مع شركة الأمانة سعود الآن
         </a>
       </div>
 
@@ -184,6 +184,7 @@
           <path d="M43.3,-57.1C57.4,-46.5,71.1,-32.6,75.3,-16.2C79.5,0.2,74.2,19.1,65.1,35.3C56,51.5,43.1,65,27.4,71.7C11.7,78.4,-6.8,78.3,-23.9,72.4C-41,66.5,-56.7,54.8,-65.4,39.2C-74.1,23.6,-75.8,4,-71.7,-13.2C-67.6,-30.4,-57.7,-45.2,-44.3,-56.1C-30.9,-67,-15.5,-74,0.7,-74.9C16.8,-75.8,33.7,-70.7,43.3,-57.1Z" transform="translate(100 100)"></path>
         </svg>
       </div>
+
     </div>
 
   </div>
@@ -264,8 +265,8 @@
 
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
-    <h2>آراء أولياء الأمور والطلاب</h2>
-    <p>اكتشف تجارب أبنائنا وأولياء الأمور مع أكاديمية طارق الشوي</p>
+    <h2>آراء عملاء شركة الأمانة سعود</h2>
+    <p>تعرف على تجارب عملائنا مع شركة الأمانة سعود للعزل والترميم والنظافة</p>
   </div><!-- End Section Title -->
 
   <div class="container">
@@ -275,15 +276,15 @@
       <!-- Testimonial 1 -->
       <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
         <div class="testimonial-item shadow-sm p-4 rounded">
-          <img src="assets/img/testimonials/testimonial1.jpg" class="testimonial-img rounded-circle" alt="أميرة خالد">
-          <h3>أميرة خالد</h3>
-          <h4>ولي أمر</h4>
+          <img src="assets/img/testimonials/testimonial1.jpg" class="testimonial-img rounded-circle" alt="عبدالله محمد">
+          <h3>عبدالله محمد</h3>
+          <h4>عميل</h4>
           <div class="stars text-warning">
             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
           </div>
           <p class="mt-3">
             <i class="bi bi-quote quote-icon-left"></i>
-            تجربتنا مع الأكاديمية رائعة! تعلم ابني البرمجة والذكاء الاصطناعي بطريقة ممتعة وآمنة أونلاين.
+            تعاملت مع شركة الأمانة سعود في عزل الخزانات وكانت الخدمة ممتازة والعمل احترافي جدًا.
             <i class="bi bi-quote quote-icon-right"></i>
           </p>
         </div>
@@ -292,15 +293,15 @@
       <!-- Testimonial 2 -->
       <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
         <div class="testimonial-item shadow-sm p-4 rounded">
-          <img src="assets/img/testimonials/testimonial2.jpg" class="testimonial-img rounded-circle" alt="محمد سامي">
-          <h3>محمد سامي</h3>
-          <h4>ولي أمر</h4>
+          <img src="assets/img/testimonials/testimonial2.jpg" class="testimonial-img rounded-circle" alt="سالم علي">
+          <h3>سالم علي</h3>
+          <h4>عميل</h4>
           <div class="stars text-warning">
             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
           </div>
           <p class="mt-3">
             <i class="bi bi-quote quote-icon-left"></i>
-            أنصح كل أولياء الأمور بالانضمام، لقد استفاد ابني من الدروس في تطوير مهاراته الرقمية واللغوية.
+            شركة الأمانة سعود قامت بعزل السطح لمنزلي وكانت النتيجة رائعة وحماية ممتازة من تسرب المياه.
             <i class="bi bi-quote quote-icon-right"></i>
           </p>
         </div>
@@ -309,15 +310,15 @@
       <!-- Testimonial 3 -->
       <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
         <div class="testimonial-item shadow-sm p-4 rounded">
-          <img src="assets/img/testimonials/testimonial3.jpg" class="testimonial-img rounded-circle" alt="ليلى أحمد">
-          <h3>ليلى أحمد</h3>
-          <h4>طالبة</h4>
+          <img src="assets/img/testimonials/testimonial3.jpg" class="testimonial-img rounded-circle" alt="فهد خالد">
+          <h3>فهد خالد</h3>
+          <h4>عميل</h4>
           <div class="stars text-warning">
             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
           </div>
           <p class="mt-3">
             <i class="bi bi-quote quote-icon-left"></i>
-            أحببت الدروس وأسلوب المعلمين، خاصة في البرمجة والذكاء الاصطناعي، مما جعل التعلم ممتعًا جدًا.
+            أفضل شركة نظافة تعاملت معها، شركة الأمانة سعود نظفت الكنب والسجاد بطريقة احترافية.
             <i class="bi bi-quote quote-icon-right"></i>
           </p>
         </div>
@@ -326,15 +327,15 @@
       <!-- Testimonial 4 -->
       <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
         <div class="testimonial-item shadow-sm p-4 rounded">
-          <img src="assets/img/testimonials/testimonial4.jpg" class="testimonial-img rounded-circle" alt="علي حسن">
-          <h3>علي حسن</h3>
-          <h4>ولي أمر</h4>
+          <img src="assets/img/testimonials/testimonial4.jpg" class="testimonial-img rounded-circle" alt="ماجد حسن">
+          <h3>ماجد حسن</h3>
+          <h4>عميل</h4>
           <div class="stars text-warning">
             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
           </div>
           <p class="mt-3">
             <i class="bi bi-quote quote-icon-left"></i>
-            خدمة ممتازة ومتابعة مستمرة، أكاديمية طارق الشوي تقدم بيئة تعليمية أونلاين آمنة وفعالة.
+            شركة الأمانة سعود قدمت خدمة مكافحة حشرات ممتازة وسريعة، أنصح بها بشدة.
             <i class="bi bi-quote quote-icon-right"></i>
           </p>
         </div>
@@ -344,7 +345,9 @@
 
   </div>
 
-</section><!-- /Testimonials Section -->
+</section>
+<!-- /Testimonials Section -->
+<!-- Stats Section -->
 <!-- Stats Section -->
 <section id="stats" class="stats section dark-background text-light py-5" dir="rtl">
 
@@ -357,8 +360,8 @@
         <div class="stats-item text-center shadow rounded p-4 position-relative bg-gradient" 
              style="background: linear-gradient(135deg, #ff7e5f, #feb47b);">
           <i class="bi bi-people-fill display-4 mb-2"></i>
-          <span data-purecounter-start="0" data-purecounter-end="500" data-purecounter-duration="2" class="purecounter fs-2 fw-bold"></span>
-          <p class="mt-2 fs-5">أولياء الأمور</p>
+          <span data-purecounter-start="0" data-purecounter-end="1500" data-purecounter-duration="2" class="purecounter fs-2 fw-bold"></span>
+          <p class="mt-2 fs-5">عملاء شركة الأمانة سعود</p>
         </div>
       </div>
 
@@ -366,9 +369,9 @@
       <div class="col-lg-3 col-md-6">
         <div class="stats-item text-center shadow rounded p-4 position-relative bg-gradient" 
              style="background: linear-gradient(135deg, #6a11cb, #2575fc);">
-          <i class="bi bi-journal-bookmark-fill display-4 mb-2"></i>
-          <span data-purecounter-start="0" data-purecounter-end="120" data-purecounter-duration="2" class="purecounter fs-2 fw-bold"></span>
-          <p class="mt-2 fs-5">الكورسات</p>
+          <i class="bi bi-house-fill display-4 mb-2"></i>
+          <span data-purecounter-start="0" data-purecounter-end="850" data-purecounter-duration="2" class="purecounter fs-2 fw-bold"></span>
+          <p class="mt-2 fs-5">عمليات عزل خزانات وأسقف</p>
         </div>
       </div>
 
@@ -376,9 +379,9 @@
       <div class="col-lg-3 col-md-6">
         <div class="stats-item text-center shadow rounded p-4 position-relative bg-gradient" 
              style="background: linear-gradient(135deg, #f7971e, #ffd200);">
-          <i class="bi bi-clock-fill display-4 mb-2"></i>
-          <span data-purecounter-start="0" data-purecounter-end="3000" data-purecounter-duration="2" class="purecounter fs-2 fw-bold"></span>
-          <p class="mt-2 fs-5">ساعات تعليمية</p>
+          <i class="bi bi-stars display-4 mb-2"></i>
+          <span data-purecounter-start="0" data-purecounter-end="2000" data-purecounter-duration="2" class="purecounter fs-2 fw-bold"></span>
+          <p class="mt-2 fs-5">خدمات تنظيف منازل وكنب</p>
         </div>
       </div>
 
@@ -386,9 +389,9 @@
       <div class="col-lg-3 col-md-6">
         <div class="stats-item text-center shadow rounded p-4 position-relative bg-gradient" 
              style="background: linear-gradient(135deg, #43cea2, #185a9d);">
-          <i class="bi bi-person-badge-fill display-4 mb-2"></i>
-          <span data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="2" class="purecounter fs-2 fw-bold"></span>
-          <p class="mt-2 fs-5">المعلمين</p>
+          <i class="bi bi-tools display-4 mb-2"></i>
+          <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="2" class="purecounter fs-2 fw-bold"></span>
+          <p class="mt-2 fs-5">فريق شركة الأمانة سعود</p>
         </div>
       </div>
 
@@ -397,6 +400,7 @@
   </div>
 
 </section>
+<!-- /Stats Section -->
 
 <!-- Script for PureCounter -->
 <script src="https://cdn.jsdelivr.net/npm/@srexi/purecounterjs/dist/purecounter_vanilla.js"></script>
@@ -421,179 +425,78 @@
 <!-- Services Section -->
 <section id="services" class="services section light-background" dir="rtl">
 
-  <!-- Section Title -->
-  <div class="container section-title" data-aos="fade-up">
-    <h2>خدماتنا التعليمية</h2>
-    <p>نقدّم في أكاديمية طارق الشوي باقة متكاملة من الخدمات والدورات التعليمية عبر الإنترنت لتطوير مهارات الطلاب.</p>
-  </div><!-- End Section Title -->
-
+ <!-- Section Title -->
+<div class="container section-title" data-aos="fade-up">
+  <h2>خدمات شركة الأمانة سعود</h2>
+  <p>
+    تقدم شركة الأمانة سعود مجموعة متكاملة من الخدمات تشمل عزل الخزانات والأسطح،
+    أعمال الترميم، تنظيف الكنب والسجاد، ومكافحة الحشرات باستخدام أحدث المعدات
+    لضمان أفضل جودة وخدمة لعملائنا.
+  </p>
+</div>
+<!-- End Section Title -->
   <div class="container" data-aos="fade-up" data-aos-delay="100">
 
-    <div class="row g-4">
+   <div class="row g-4">
 
-      <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-        <div class="service-card d-flex">
-          <div class="icon flex-shrink-0">
-            <i class="bi bi-laptop"></i>
-          </div>
-          <div>
-            <h3>دورات أونلاين في البرمجة</h3>
-            <p>تعلم البرمجة من الصفر وحتى الاحتراف عبر منصتنا الإلكترونية مع محاضرات عملية ومشاريع تطبيقية.</p>
-            <a href="#" class="read-more">المزيد <i class="bi bi-arrow-right"></i></a>
-          </div>
-        </div>
-      </div><!-- End Service Card -->
-
-      <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-        <div class="service-card d-flex">
-          <div class="icon flex-shrink-0">
-            <i class="bi bi-bar-chart"></i>
-          </div>
-          <div>
-            <h3>تطوير المهارات الرقمية</h3>
-            <p>دورات متكاملة في مهارات الكمبيوتر، ICDL، والتقنيات الحديثة لتواكب احتياجات سوق العمل العالمي.</p>
-            <a href="#" class="read-more">المزيد <i class="bi bi-arrow-right"></i></a>
-          </div>
-        </div>
-      </div><!-- End Service Card -->
-
-      <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-        <div class="service-card d-flex">
-          <div class="icon flex-shrink-0">
-            <i class="bi bi-book"></i>
-          </div>
-          <div>
-            <h3>تعليم اللغة الإنجليزية</h3>
-            <p>كورسات متميزة لتعلم الإنجليزية لجميع المستويات، مع التركيز على المحادثة والكتابة والفهم.</p>
-            <a href="#" class="read-more">المزيد <i class="bi bi-arrow-right"></i></a>
-          </div>
-        </div>
-      </div><!-- End Service Card -->
-
-      <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
-        <div class="service-card d-flex">
-          <div class="icon flex-shrink-0">
-            <i class="bi bi-journal-text"></i>
-          </div>
-          <div>
-            <h3>دورات تحفيظ القرآن الكريم</h3>
-            <p>تعليم القرآن الكريم للأطفال والكبار، مع التركيز على التجويد والفهم بأسلوب تربوي حديث.</p>
-            <a href="#" class="read-more">المزيد <i class="bi bi-arrow-right"></i></a>
-          </div>
-        </div>
-      </div><!-- End Service Card -->
-
+  <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+    <div class="service-card d-flex">
+      <div class="icon flex-shrink-0">
+        <i class="bi bi-laptop"></i>
+      </div>
+      <div>
+        <h3>تنظيف المنازل والشركات</h3>
+        <p>تقدم شركة الأمانة خدمات تنظيف المنازل والشركات باستخدام أحدث المعدات ومواد التنظيف الآمنة لضمان أفضل مستوى من النظافة.</p>
+        <a href="#" class="read-more">المزيد <i class="bi bi-arrow-right"></i></a>
+      </div>
     </div>
+  </div><!-- End Service Card -->
+
+  <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+    <div class="service-card d-flex">
+      <div class="icon flex-shrink-0">
+        <i class="bi bi-bar-chart"></i>
+      </div>
+      <div>
+        <h3>تنظيف بعد التشطيب</h3>
+        <p>نوفر خدمة تنظيف شاملة بعد التشطيب لإزالة الأتربة وبقايا البناء وتنظيف الأرضيات والجدران والزجاج بشكل احترافي.</p>
+        <a href="#" class="read-more">المزيد <i class="bi bi-arrow-right"></i></a>
+      </div>
+    </div>
+  </div><!-- End Service Card -->
+
+  <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
+    <div class="service-card d-flex">
+      <div class="icon flex-shrink-0">
+        <i class="bi bi-book"></i>
+      </div>
+      <div>
+        <h3>عزل الخزانات والأسطح</h3>
+        <p>تقدم شركة الأمانة خدمات عزل الخزانات والأسطح باستخدام أفضل مواد العزل لحماية المباني من تسرب المياه والرطوبة.</p>
+        <a href="#" class="read-more">المزيد <i class="bi bi-arrow-right"></i></a>
+      </div>
+    </div>
+  </div><!-- End Service Card -->
+
+  <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
+    <div class="service-card d-flex">
+      <div class="icon flex-shrink-0">
+        <i class="bi bi-journal-text"></i>
+      </div>
+      <div>
+        <h3>ترميم وصيانة المباني</h3>
+        <p>نوفر خدمات الترميم والصيانة للمنازل والمباني مع فريق متخصص لضمان جودة العمل وإعادة المبنى إلى أفضل حالة.</p>
+        <a href="#" class="read-more">المزيد <i class="bi bi-arrow-right"></i></a>
+      </div>
+    </div>
+  </div><!-- End Service Card -->
+
+</div>
 
   </div>
 
 </section><!-- /Services Section -->
-<!-- Pricing Section -->
-<!-- Pricing Section -->
-<section id="pricing" class="pricing section light-background" dir="rtl">
 
-  <!-- Section Title -->
-  <div class="container section-title" data-aos="fade-up">
-    <h2>✨ عروض ومصروفات المدرسة</h2>
-    <p>احجز مكان ابنك الآن بسعر مميز لفترة محدودة – الأماكن محدودة والأولوية للحجز المبكر</p>
-  </div><!-- End Section Title -->
-
-  <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-    <div class="row g-4 justify-content-center">
-
-      <!-- Basic Plan -->
-      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
-        <div class="pricing-card border border-secondary p-4 text-center rounded shadow-sm">
-          <h3>KG & Primary</h3>
-          <div class="price my-3">
-            <span class="amount">4000</span>
-            <span class="currency">ج</span>
-            <span class="period">الترم كامل</span>
-          </div>
-          <p class="description">
-            KG1 – KG2 <br>
-            Grade 1 – 2 – 3
-          </p>
-
-          <h4>يشمل:</h4>
-          <ul class="features-list text-start mx-4">
-            <li><i class="bi bi-check-circle-fill text-success"></i> بدل 6000 جنيه</li>
-            <li><i class="bi bi-check-circle-fill text-success"></i> أول يوم تجربة مجاني</li>
-            <li><i class="bi bi-check-circle-fill text-success"></i> خصم 10% للأخوات</li>
-          </ul>
-
-          <a href="https://wa.me/201011517437" target="_blank" class="btn btn-primary mt-3">
-            احجز الآن
-            <i class="bi bi-arrow-right"></i>
-          </a>
-        </div>
-      </div>
-
-      <!-- Standard Plan -->
-      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-        <div class="pricing-card popular border border-warning p-4 text-center rounded shadow-sm position-relative">
-          <div class="popular-badge bg-warning text-dark px-3 py-1 position-absolute top-0 start-50 translate-middle rounded">
-            الأكثر طلبًا
-          </div>
-          <h3>Upper Primary</h3>
-          <div class="price my-3">
-            <span class="amount">4200</span>
-            <span class="currency">ج</span>
-            <span class="period">الترم كامل</span>
-          </div>
-          <p class="description">
-            Grade 4 – 5 – 6
-          </p>
-
-          <h4>يشمل:</h4>
-          <ul class="features-list text-start mx-4">
-            <li><i class="bi bi-check-circle-fill text-success"></i> بدل 6400 جنيه</li>
-            <li><i class="bi bi-check-circle-fill text-success"></i> متابعة مستمرة للطلاب</li>
-            <li><i class="bi bi-check-circle-fill text-success"></i> أنشطة تعليمية أونلاين</li>
-            <li><i class="bi bi-check-circle-fill text-success"></i> خصم الأشقاء</li>
-          </ul>
-
-          <a href="https://wa.me/201011517437" target="_blank" class="btn btn-light mt-3">
-            احجز الآن
-            <i class="bi bi-arrow-right"></i>
-          </a>
-        </div>
-      </div>
-
-      <!-- Premium Plan -->
-      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
-        <div class="pricing-card border border-danger p-4 text-center rounded shadow-sm">
-          <h3>Preparatory</h3>
-          <div class="price my-3">
-            <span class="amount">5200</span>
-            <span class="currency">ج</span>
-            <span class="period">الترم كامل</span>
-          </div>
-          <p class="description">
-            إعدادي 1 – 2 – 3
-          </p>
-
-          <h4>يشمل:</h4>
-          <ul class="features-list text-start mx-4">
-            <li><i class="bi bi-check-circle-fill text-success"></i> بدل 7800 جنيه</li>
-            <li><i class="bi bi-check-circle-fill text-success"></i> شرح مبسط + مراجعات</li>
-            <li><i class="bi bi-check-circle-fill text-success"></i> دعم أكاديمي مستمر</li>
-            <li><i class="bi bi-check-circle-fill text-success"></i> تقارير متابعة</li>
-          </ul>
-
-          <a href="https://wa.me/201011517437" target="_blank" class="btn btn-danger mt-3">
-            احجز الآن
-            <i class="bi bi-arrow-right"></i>
-          </a>
-        </div>
-      </div>
-
-    </div>
-
-  </div>
-
-</section>
 <!-- Faq Section -->
 <section class="faq-9 faq section light-background" id="faq" dir="rtl">
 
@@ -601,8 +504,8 @@
     <div class="row">
 
       <div class="col-lg-5" data-aos="fade-up">
-        <h2 class="faq-title">لديك سؤال؟ تحقق من الأسئلة الشائعة</h2>
-        <p class="faq-description">هنا تجد أهم الأسئلة التي يطرحها طلاب أكاديمية طارق الشوي عن التعليم الأونلاين والدورات المتاحة.</p>
+        <h2 class="faq-title">لديك سؤال؟ تعرف على الأسئلة الشائعة عن شركة الأمانة</h2>
+        <p class="faq-description">هنا تجد أهم الأسئلة التي يطرحها العملاء عن خدمات شركة الأمانة في تنظيف المنازل والشركات، عزل الخزانات والأسطح، الترميم والصيانة ومكافحة الحشرات.</p>
         <div class="faq-arrow d-none d-lg-block" data-aos="fade-up" data-aos-delay="200">
           <svg class="faq-arrow" width="200" height="211" viewBox="0 0 200 211" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="..." fill="currentColor"></path>
@@ -614,49 +517,49 @@
         <div class="faq-container">
 
           <div class="faq-item faq-active">
-            <h3>كيف يمكنني التسجيل في الدورات الأونلاين؟</h3>
+            <h3>ما هي خدمات شركة الأمانة للنظافة والعزل؟</h3>
             <div class="faq-content">
-              <p>يمكنك التسجيل بسهولة من خلال موقع الأكاديمية، اختر الدورة التي تريدها، اضغط على "سجل الآن" واملأ البيانات المطلوبة لتبدأ التعلم مباشرة.</p>
+              <p>تقدم شركة الأمانة مجموعة متكاملة من الخدمات تشمل تنظيف المنازل والشركات، تنظيف بعد التشطيب، تنظيف الواجهات الزجاجية، عزل الخزانات والأسطح، ترميم وصيانة المباني، ومكافحة الحشرات والقوارض.</p>
             </div>
             <i class="faq-toggle bi bi-chevron-right"></i>
           </div><!-- End Faq item-->
 
           <div class="faq-item">
-            <h3>هل تقدم الأكاديمية شهادات بعد إتمام الدورة؟</h3>
+            <h3>هل توفر شركة الأمانة خدمة تنظيف بعد التشطيب؟</h3>
             <div class="faq-content">
-              <p>نعم، بعد إكمال كل دورة بنجاح ستحصل على شهادة معتمدة من أكاديمية طارق الشوي يمكن استخدامها في السيرة الذاتية ومواقع التوظيف.</p>
+              <p>نعم، توفر شركة الأمانة خدمة تنظيف شاملة بعد التشطيب لإزالة الأتربة وبقايا مواد البناء وتنظيف الأرضيات والجدران والزجاج بشكل احترافي.</p>
             </div>
             <i class="faq-toggle bi bi-chevron-right"></i>
           </div><!-- End Faq item-->
 
           <div class="faq-item">
-            <h3>هل يمكنني تعلم البرمجة من الصفر؟</h3>
+            <h3>ما أهمية عزل الخزانات والأسطح؟</h3>
             <div class="faq-content">
-              <p>بالطبع، تقدم الأكاديمية مسارات تعليمية من المستوى المبتدئ حتى الاحترافي، مع دعم من المدربين والإرشاد خطوة بخطوة.</p>
+              <p>يساعد عزل الخزانات والأسطح في حماية المباني من تسرب المياه والرطوبة ويزيد من عمر المبنى، وتستخدم شركة الأمانة أفضل مواد العزل لضمان أعلى جودة.</p>
             </div>
             <i class="faq-toggle bi bi-chevron-right"></i>
           </div><!-- End Faq item-->
 
           <div class="faq-item">
-            <h3>هل الدورات مناسبة لجميع الأعمار؟</h3>
+            <h3>هل تقدم شركة الأمانة خدمات الترميم والصيانة؟</h3>
             <div class="faq-content">
-              <p>نعم، لدينا دورات مصممة للأطفال، المراهقين والكبار، مع محتوى متدرج ووسائل تعليمية تناسب كل الفئات العمرية.</p>
+              <p>نعم، تقدم شركة الأمانة خدمات الترميم وصيانة المباني وإصلاح التشققات وإعادة تأهيل المنازل والمباني بأعلى مستوى من الجودة.</p>
             </div>
             <i class="faq-toggle bi bi-chevron-right"></i>
           </div><!-- End Faq item-->
 
           <div class="faq-item">
-            <h3>هل يمكنني متابعة الدورة في أي وقت؟</h3>
+            <h3>هل توفر الشركة خدمة مكافحة الحشرات؟</h3>
             <div class="faq-content">
-              <p>نعم، جميع الدورات متاحة أونلاين ويمكنك الوصول إليها في أي وقت ومن أي مكان لتتعلم بالسرعة التي تناسبك.</p>
+              <p>نعم، توفر شركة الأمانة خدمات مكافحة الحشرات والقوارض باستخدام مواد آمنة وفعالة للقضاء على الحشرات وضمان بيئة نظيفة وصحية.</p>
             </div>
             <i class="faq-toggle bi bi-chevron-right"></i>
           </div><!-- End Faq item-->
 
           <div class="faq-item">
-            <h3>هل يوجد دعم فني أو استشارات أثناء الدورة؟</h3>
+            <h3>كيف يمكنني التواصل مع شركة الأمانة؟</h3>
             <div class="faq-content">
-              <p>بالطبع، يقدم فريق الأكاديمية الدعم الفني والإرشاد التعليمي للطلاب على مدار الساعة لضمان تجربة تعليمية ممتازة.</p>
+              <p>يمكنك التواصل مع شركة الأمانة لخدمات النظافة والعزل والترميم بسهولة عبر الهاتف أو الواتساب على الرقم 0568947117 للحصول على استشارة أو حجز الخدمة.</p>
             </div>
             <i class="faq-toggle bi bi-chevron-right"></i>
           </div><!-- End Faq item-->
@@ -670,113 +573,109 @@
 <!-- Contact Section -->
 <section id="contact" class="contact section light-background" dir="rtl">
 
-  <!-- Section Title -->
-  <div class="container section-title" data-aos="fade-up">
-    <h2>تواصل معنا</h2>
-    <p>يمكنك التواصل معنا لأي استفسار حول الدورات الأونلاين أو التسجيل في أكاديمية طارق الشوي.</p>
-  </div><!-- End Section Title -->
+<!-- Section Title -->
+<div class="container section-title" data-aos="fade-up">
+  <h2>تواصل معنا</h2>
+  <p>يمكنك التواصل مع شركة الأمانة لأي استفسار حول خدمات التنظيف، العزل، الترميم، أو حجز خدمة مباشرة.</p>
+</div><!-- End Section Title -->
 
-  <div class="container" data-aos="fade-up" data-aos-delay="100">
+<div class="container" data-aos="fade-up" data-aos-delay="100">
 
-    <div class="row g-4 g-lg-5">
+  <div class="row g-4 g-lg-5">
 
-      <!-- معلومات الاتصال -->
-      <div class="col-lg-5">
-        <div class="info-box" data-aos="fade-up" data-aos-delay="200">
-          <h3>معلومات التواصل</h3>
-          <p>يسرنا استقبال جميع استفساراتكم وأسئلتكم عبر الهاتف، البريد الإلكتروني، أو حساباتنا على وسائل التواصل الاجتماعي.</p>
+    <!-- معلومات الاتصال -->
+    <div class="col-lg-5">
+      <div class="info-box" data-aos="fade-up" data-aos-delay="200">
+        <h3>معلومات التواصل</h3>
+        <p>يسرنا استقبال جميع استفساراتكم وأسئلتكم عبر الهاتف، الواتساب، البريد الإلكتروني، أو حساباتنا على وسائل التواصل الاجتماعي.</p>
 
-          <div class="info-item" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon-box">
-              <i class="bi bi-geo-alt"></i>
-            </div>
-            <div class="content">
-              <h4>الموقع</h4>
-              <p>أكاديمية طارق الشوي، أونلاين بالكامل</p>
-            </div>
+        <div class="info-item" data-aos="fade-up" data-aos-delay="300">
+          <div class="icon-box">
+            <i class="bi bi-geo-alt"></i>
           </div>
-
-          <div class="info-item" data-aos="fade-up" data-aos-delay="400">
-            <div class="icon-box">
-              <i class="bi bi-telephone"></i>
-            </div>
-            <div class="content">
-              <h4>أرقام الهاتف</h4>
-              <p>📞 +20 10 63069860</p>
-              <p>📞 +20 12 75928067 (واتس آب)</p>
-            </div>
+          <div class="content">
+            <h4>الموقع</h4>
+            <p>شركة الأمانة – خدمات النظافة والعزل والترميم، المملكة العربية السعودية</p>
           </div>
-
-          <div class="info-item" data-aos="fade-up" data-aos-delay="500">
-            <div class="icon-box">
-              <i class="bi bi-envelope"></i>
-            </div>
-            <div class="content">
-              <h4>البريد الإلكتروني</h4>
-              <p>📧 tariqeshewyacademy@gmail.com</p>
-            </div>
-          </div>
-
-          <div class="info-item" data-aos="fade-up" data-aos-delay="600">
-            <div class="icon-box">
-              <i class="bi bi-share"></i>
-            </div>
-            <div class="content">
-              <h4>تابعنا على السوشيال ميديا</h4>
-              <p>
-                <a href="https://www.facebook.com/profile.php?id=61576146884214" target="_blank">Facebook</a> | 
-                <a href="https://www.tiktok.com/@tariqeshewyacademy1" target="_blank">TikTok</a> | 
-                <a href="https://www.youtube.com/@tariqeshewyacademy" target="_blank">YouTube</a> | 
-                <a href="https://x.com/tariqeshewyacad" target="_blank">X / Twitter</a>
-              </p>
-            </div>
-          </div>
-
         </div>
-      </div>
 
-      <!-- نموذج الاتصال -->
-      <div class="col-lg-7">
-        <div class="contact-form" data-aos="fade-up" data-aos-delay="300">
-          <h3>راسلنا الآن</h3>
-          <p>املأ النموذج أدناه وسنقوم بالرد عليك في أسرع وقت ممكن.</p>
-
-          <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
-            <div class="row gy-4">
-
-              <div class="col-md-6">
-                <input type="text" name="name" class="form-control" placeholder="اسمك" required>
-              </div>
-
-              <div class="col-md-6">
-                <input type="email" class="form-control" name="email" placeholder="البريد الإلكتروني" required>
-              </div>
-
-              <div class="col-12">
-                <input type="text" class="form-control" name="subject" placeholder="عنوان الرسالة" required>
-              </div>
-
-              <div class="col-12">
-                <textarea class="form-control" name="message" rows="6" placeholder="اكتب رسالتك هنا" required></textarea>
-              </div>
-
-              <div class="col-12 text-center">
-                <div class="loading">جارٍ الإرسال...</div>
-                <div class="error-message"></div>
-                <div class="sent-message">تم إرسال رسالتك بنجاح. شكرًا لتواصلك معنا!</div>
-
-                <button type="submit" class="btn">إرسال الرسالة</button>
-              </div>
-
-            </div>
-          </form>
-
+        <div class="info-item" data-aos="fade-up" data-aos-delay="400">
+          <div class="icon-box">
+            <i class="bi bi-telephone"></i>
+          </div>
+          <div class="content">
+            <h4>أرقام الهاتف</h4>
+            <p>📞 056 894 7117</p>
+            <p>📞 واتس آب: 056 894 7117</p>
+          </div>
         </div>
-      </div>
 
+        <div class="info-item" data-aos="fade-up" data-aos-delay="500">
+          <div class="icon-box">
+            <i class="bi bi-envelope"></i>
+          </div>
+          <div class="content">
+            <h4>البريد الإلكتروني</h4>
+            <p>📧 info@alamanaclean.com</p>
+          </div>
+        </div>
+
+        <div class="info-item" data-aos="fade-up" data-aos-delay="600">
+          <div class="icon-box">
+            <i class="bi bi-share"></i>
+          </div>
+          <div class="content">
+            <h4>تابعنا على السوشيال ميديا</h4>
+            <p>
+              <a href="https://www.facebook.com/profile.php?id=61585056446251" target="_blank">Facebook</a>
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- نموذج الاتصال -->
+    <div class="col-lg-7">
+      <div class="contact-form" data-aos="fade-up" data-aos-delay="300">
+        <h3>راسلنا الآن</h3>
+        <p>املأ النموذج أدناه وسنقوم بالرد عليك في أسرع وقت ممكن لحجز خدمات شركة الأمانة.</p>
+
+        <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
+          <div class="row gy-4">
+
+            <div class="col-md-6">
+              <input type="text" name="name" class="form-control" placeholder="اسمك" required>
+            </div>
+
+            <div class="col-md-6">
+              <input type="email" class="form-control" name="email" placeholder="البريد الإلكتروني" required>
+            </div>
+
+            <div class="col-12">
+              <input type="text" class="form-control" name="subject" placeholder="عنوان الرسالة" required>
+            </div>
+
+            <div class="col-12">
+              <textarea class="form-control" name="message" rows="6" placeholder="اكتب رسالتك هنا" required></textarea>
+            </div>
+
+            <div class="col-12 text-center">
+              <div class="loading">جارٍ الإرسال...</div>
+              <div class="error-message"></div>
+              <div class="sent-message">تم إرسال رسالتك بنجاح. شكرًا لتواصلك معنا!</div>
+
+              <button type="submit" class="btn">إرسال الرسالة</button>
+            </div>
+
+          </div>
+        </form>
+
+      </div>
     </div>
 
   </div>
 
+</div>
 </section><!-- /Contact Section -->
 @endsection

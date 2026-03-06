@@ -10,11 +10,11 @@
 
           <div class="company-badge mb-4">
             <i class="bi bi-buildings-fill me-2"></i>
-            شركة الأمانة
+            سعود شركة الأمانة
           </div>
 
           <h1 class="mb-4">
-            شركة الأمانة <br>
+           سعود شركة الأمانة <br>
 
             <span class="accent-text">
               للعزل والترميم والنظافة
@@ -167,9 +167,9 @@
 
           <div class="images position-relative" data-aos="zoom-out" data-aos-delay="400">
 
-            <img src="{{asset('assets/img/about-5.jpg')}}" alt="خدمات النظافة" class="img-fluid main-image rounded-4">
+            <img src="{{asset('assets/img/about-5.png')}}" alt="خدمات النظافة" class="img-fluid main-image rounded-4">
 
-            <img src="{{asset('assets/img/about-2.jpg')}}" alt="العزل والترميم" class="img-fluid small-image rounded-4">
+            <img src="{{asset('assets/img/about-2.png')}}" alt="العزل والترميم" class="img-fluid small-image rounded-4">
 
           </div>
 

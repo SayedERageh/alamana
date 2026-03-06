@@ -5,15 +5,20 @@
 <meta charset="utf-8">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-<title>أكاديمية طارق الشيوي | تعليم وتدريب أونلاين</title>
-<meta name="google-site-verification" content="7TdLbu_LDXRHB2rr21XFvbyMEAAAJ8Uqq3S_cp_FBNE" />
-<meta name="description" content="أكاديمية طارق الشيوي منصة تعليمية متخصصة في تقديم الدورات والكورسات الأونلاين لتطوير المهارات التعليمية والتقنية باحترافية.">
+<title>شركة الأمانة سعود | خدمات عزل وتنظيف ومكافحة حشرات</title>
 
-<meta name="keywords" content="أكاديمية طارق الشيوي, كورسات أونلاين, تعليم إلكتروني, تدريب, دورات تعليمية, منصة تعليمية">
+<meta name="description" content="شركة الأمانة سعود تقدم خدمات متكاملة في العزل والترميم والنظافة، تشمل عزل الخزانات والأسطح، تنظيف الكنب والسجاد، ومكافحة الحشرات بأحدث المعدات وبأفضل جودة.">
 
+<meta name="keywords" content="شركة الأمانة سعود, شركة الأمانة سعود للنظافة, شركة الأمانة سعود للعزل, عزل خزانات, عزل أسطح, تنظيف كنب, تنظيف سجاد, مكافحة حشرات">
+
+<meta name="author" content="شركة الأمانة سعود">
   <!-- Favicons -->
-  <link href="{{asset('assets/img/favicon.png')}}" rel="icon">
-  <link href="{{asset('assets/img/apple-touch-icon.png')}}" rel="apple-touch-icon">
+ 
+  <link rel="icon" type="image/png" href="{{ asset('assets/favicon/favicon-96x96.png') }}" sizes="96x96">
+<link rel="icon" type="image/svg+xml" href="{{ asset('assets/favicon/favicon.svg') }}">
+<link rel="shortcut icon" href="{{ asset('assets/favicon/favicon.ico') }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ asset('assets/favicon/apple-touch-icon.png') }}">
+<link rel="manifest" href="{{ asset('assets/favicon/site.webmanifest') }}">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
